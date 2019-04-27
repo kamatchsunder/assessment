@@ -2,11 +2,11 @@
 
 
 In order to test this maven project, 
-please run the following command from the directory where it is avalable
+please run the following command from the directory where it is available
 
 mvn exec:java  -Dexec.mainClass=MovieApp -Dexec.args="spiderman"
 
-it will ask the input and after that
+it will ask the input and after that prints the output
 
 
 for example :  --- exec-maven-plugin:1.6.0:java (default-cli) @ assessment ---
